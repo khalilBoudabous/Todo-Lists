@@ -1,0 +1,8 @@
+nelmio_api_doc:
+    documentation:
+        info:
+            title: Todo List API
+            description: API for managing todo lists and tasks
+            version: 1.0.0
+        security:
+            - Bearer: []
